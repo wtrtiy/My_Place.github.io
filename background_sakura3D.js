@@ -1,15 +1,3 @@
-//<body>
-//<canvas id="sakura"></canvas>
-//<div class="btnbg">
-//</div>
-//<div class="nihao">
-//<p>nihao</p>
-//<p class="red">这原来真的可以啊</p>
-//</div>
- 
-
-<!-- sakura shader -->
-
 <script id="sakura_point_vsh" type="x-shader/x_vertex">
 
 uniform mat4 uProjection;
